@@ -74,26 +74,26 @@ It combines essential daily tools — a **to-do list**, **notes system with tags
 ## 📸 Project Screenshots
 
 ###  1. Initial Dashboard View
-<img width="1919" height="861" alt="initial look" src="https://github.com/user-attachments/assets/6c74bcc9-b4ac-42eb-b432-77a7dedf483d" />
+<img width="1919" height="864" alt="initial look" src="https://github.com/user-attachments/assets/5b3a7138-8a26-4804-9490-c51eadb4b959" />
 - The first look of the dashboard on load — showcasing a clean, glassmorphic layout with the *To-Do List*, *Notes Panel*, and *User Image* sections neatly arranged.  
 - The light theme creates a soft, elegant interface that’s easy on the eyes.
 
 ### 2. Dashboard with Multiple Notes
-<img width="1890" height="867" alt="light mode with all notes" src="https://github.com/user-attachments/assets/978c0816-b2fa-4996-a3a2-3be49659128a" />
+<img width="1917" height="866" alt="all notes" src="https://github.com/user-attachments/assets/868f0635-e7f0-4eaa-8c12-7934234d73d2" />
 - Demonstrates how multiple notes appear with their respective tags and colors.  
 - Each note includes a title, tag, date, and content, offering a clear visual distinction through the color palette.  
 - The tag bar at the top dynamically updates as new tags are created.
 
 ###  3. Dark Mode Interface
-<img width="1917" height="860" alt="dark mode" src="https://github.com/user-attachments/assets/7ea7c390-db17-43e6-8f45-e84275ad4c73" />
+<img width="1919" height="864" alt="dark mode" src="https://github.com/user-attachments/assets/2891990e-0ea4-4339-be98-d67b1c788271" />
 - The dashboard in dark theme — providing a sleek, contrast-rich experience suitable for nighttime or low-light environments.  
 - All elements, including notes, tags, and buttons, adapt seamlessly to the theme change with consistent readability and aesthetics.
 
 ### 4. Functional Demonstration
-<img width="1919" height="864" alt="functionality" src="https://github.com/user-attachments/assets/babe45f3-c132-4a1f-9b55-bd04eede9c5e" />
+<img width="1919" height="863" alt="functionality" src="https://github.com/user-attachments/assets/bc9277ae-52b9-4c5f-9657-c3c9ec3b506e" />
 -Highlights the dashboard’s interactivity:  
   > A task is checked off in the To-Do List (visibly striked out).  
-  > The *English* tag is selected in the tag bar, filtering and displaying only notes under that tag.  
+  > The *history* tag is selected in the tag bar, filtering and displaying only notes under that tag.  
   > This view illustrates how multiple features work together — task management, note filtering, and tag-based categorization.
 
 
