@@ -1,4 +1,4 @@
-# Student_Dashboard
+# Student Dashboard
 
 An elegant and interactive **Student dashboard** built using **HTML, CSS, and JavaScript**.  
 It combines essential daily tools — a **to-do list**, **notes system with tags**, **user image upload**, and a **dark/light theme toggle** — into one beautifully designed interface.
@@ -54,7 +54,7 @@ It combines essential daily tools — a **to-do list**, **notes system with tags
 
 3. **Notes Panel**  
    - Add note name, tag, date, and text.  
-   - Pick a note color from the color wheel.  
+   - Pick a note color from the given color palette  
    - Tags appear automatically — click a tag to filter notes by category.
 
 4. **Theme Toggle**  
@@ -67,7 +67,6 @@ It combines essential daily tools — a **to-do list**, **notes system with tags
 - Animated hover effects for all buttons.
 - Cute circular color palette for note themes.
 - Balanced spacing between all dashboard components.
-- Non-overlapping tag bar with rounded color tags.
 
 ---
 
