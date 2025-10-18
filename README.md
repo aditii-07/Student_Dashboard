@@ -70,7 +70,7 @@ It combines essential daily tools — a **to-do list**, **notes system with tags
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ###  1. Initial Dashboard View
 <img width="1919" height="864" alt="initial look" src="https://github.com/user-attachments/assets/5b3a7138-8a26-4804-9490-c51eadb4b959" />
